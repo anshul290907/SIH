@@ -7,7 +7,7 @@ WasteWise is a smart campus waste-management and sanitation platform designed to
 
 The platform connects **students, sanitation staff, and campus administrators** to create a more efficient, transparent, and sustainable waste-management ecosystem.
 
-## 🏆 Smart India Hackathon 2026
+## Smart India Hackathon 2026
 
 | Details | Information |
 | **Problem Statement ID** | 26201 |
@@ -21,7 +21,7 @@ The platform connects **students, sanitation staff, and campus administrators** 
 
 > "Solutions could be in the form of waste segregation, disposal, and improvised sanitization system."
 
-# 💡 Our Solution
+# Our Solution
 
 WasteWise transforms traditional campus waste management into a **data-driven smart campus system**.
 
@@ -43,7 +43,7 @@ Instead of relying only on manual monitoring, students and staff can report wast
 ↓  
 **Data contributes to campus analytics**
 
-# 🎯 Objectives
+# Objectives
 
 - Improve waste segregation in educational institutions
 - Reduce overflowing and improperly used waste bins
@@ -54,9 +54,9 @@ Instead of relying only on manual monitoring, students and staff can report wast
 - Generate useful data for better resource conservation
 - Create a scalable system that can be adapted to different campuses
 
-# ✨ Key Features
+#  Key Features
 
-## 👨‍🎓 Student Dashboard
+##  Student Dashboard
 
 Students can:
 
@@ -95,7 +95,7 @@ Each bin contains information such as:
 
 The prototype uses simulated bin data, while the architecture is designed to support future integration with IoT-based sensors.
 
-## ♻️ Waste Segregation Guide
+##  Waste Segregation Guide
 
 WasteWise helps students understand which bin different types of waste belong in.
 
@@ -112,13 +112,6 @@ WasteWise helps students understand which bin different types of waste belong in
 
 The goal is to make correct segregation simple and accessible.
 
-# 🤖 AI-Assisted Waste Classification
-
-WasteWise includes an AI-assisted waste classification interface.
-
-A user can upload an image of waste and receive a classification such as:
-
-Detected: Plastic Bottle
 
 Category: Dry Waste
 
